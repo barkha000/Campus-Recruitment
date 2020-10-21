@@ -11,10 +11,10 @@ Performing feature scaling for maintaining imbalanced of our dataset.
 Applying different types of classification model for predicting best accuracy.
 Performing different types of method and curve for calculating and visualising accuracy of our different classification model.
 # Libraries Required
-pandas
-matplotlib
-seaborn
-sckit learn
+1.pandas
+2.matplotlib
+3.seaborn
+4.sckit learn
 
 
 # Conclusion
